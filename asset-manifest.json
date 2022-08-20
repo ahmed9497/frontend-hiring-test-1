@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.260a741d.css",
-    "main.js": "/static/js/main.e4ac1cb6.js",
-    "static/js/787.04fc8ff6.chunk.js": "/static/js/787.04fc8ff6.chunk.js",
-    "static/media/AvenirLTStd-Black.otf": "/static/media/AvenirLTStd-Black.7ce894e12078ca8c5134.otf",
-    "static/media/AvenirLTStd-Book.otf": "/static/media/AvenirLTStd-Book.813557df4c7a90b1a474.otf",
-    "static/media/AvenirLTStd-Roman.otf": "/static/media/AvenirLTStd-Roman.0bfb049d9455e81fd1da.otf",
-    "static/media/TT Logo.png": "/static/media/TT Logo.f65872257c8b50aac2e6.png",
-    "index.html": "/index.html",
-    "main.260a741d.css.map": "/static/css/main.260a741d.css.map",
-    "main.e4ac1cb6.js.map": "/static/js/main.e4ac1cb6.js.map",
-    "787.04fc8ff6.chunk.js.map": "/static/js/787.04fc8ff6.chunk.js.map"
+    "main.css": "/frontend-hiring-test-1/static/css/main.4abd7270.css",
+    "main.js": "/frontend-hiring-test-1/static/js/main.607cf16a.js",
+    "static/js/787.04fc8ff6.chunk.js": "/frontend-hiring-test-1/static/js/787.04fc8ff6.chunk.js",
+    "static/media/AvenirLTStd-Black.otf": "/frontend-hiring-test-1/static/media/AvenirLTStd-Black.7ce894e12078ca8c5134.otf",
+    "static/media/AvenirLTStd-Book.otf": "/frontend-hiring-test-1/static/media/AvenirLTStd-Book.813557df4c7a90b1a474.otf",
+    "static/media/AvenirLTStd-Roman.otf": "/frontend-hiring-test-1/static/media/AvenirLTStd-Roman.0bfb049d9455e81fd1da.otf",
+    "static/media/TT Logo.png": "/frontend-hiring-test-1/static/media/TT Logo.f65872257c8b50aac2e6.png",
+    "index.html": "/frontend-hiring-test-1/index.html",
+    "main.4abd7270.css.map": "/frontend-hiring-test-1/static/css/main.4abd7270.css.map",
+    "main.607cf16a.js.map": "/frontend-hiring-test-1/static/js/main.607cf16a.js.map",
+    "787.04fc8ff6.chunk.js.map": "/frontend-hiring-test-1/static/js/787.04fc8ff6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.260a741d.css",
-    "static/js/main.e4ac1cb6.js"
+    "static/css/main.4abd7270.css",
+    "static/js/main.607cf16a.js"
   ]
 }
