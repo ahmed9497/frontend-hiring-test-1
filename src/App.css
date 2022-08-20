@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Avenir';
+  src: url('/src/assests/font/AvenirLTStd-Black.otf');
+}
+@font-face {
+  font-family: 'AvenirBook';
+  src: url('/src/assests/font/AvenirLTStd-Book.otf');
+}
+@font-face {
+  font-family: 'AvenirRoman';
+  src: url('/src/assests/font/AvenirLTStd-Roman.otf');
+}
+
+* {
+  font-family: 'AvenirBook' !important;
+  font-weight: 600;
+}
+
+.login-page {
+  min-height: calc(100vh);
+  background-color: #f4eeee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#loader-wrapper{
+  display: none;
+}
+#skeleton{
+  position: fixed;
+  height: 100%;
+  width:100%;
+  z-index: 1004;
+  background: #cabfbfbf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ant-pagination-item-active {
+  font-weight: 500;
+  background: #1890ff !important;
+  /* color: #8c2d2d !important; */
+  /* border-color: #1890ff; */
+}
+.ant-pagination-item-active a {
+  color: #fff !important;
+}
+.ant-pagination-item {
+border: none !important;
+background-color: none !important;
+}
+.ant-pagination-next,.ant-pagination-prev
+{
+  border:none;
+}
+.ant-table-thead>tr>th{
+  font-weight: 600 !important;
+}
+.archive{
+  color: #1dc9b7;
+  background: rgba(114, 114, 114, 0.12);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2px;
+
+}
+.unarchive{
+  color: #727272;
+  background: rgba(114,114,114,0.12156862745098039 );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2px;
+
+}
+.text-capitalize{
+  text-transform: capitalize;
+}
+.ant-table-wrapper {
+ 
+  border: 2px solid #f0f0f0 !important;
+}
